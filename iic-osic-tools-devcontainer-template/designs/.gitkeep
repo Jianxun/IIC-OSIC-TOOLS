@@ -1,0 +1,5 @@
+# This file is intentionally left blank.
+# It ensures the 'designs/' directory is included when cloning the repository,
+# even if it's initially empty.
+#
+# You should place your actual EDA design project folders within this 'designs/' directory. 
